@@ -1,0 +1,41 @@
+{
+	"id": -1,
+	"name": "Traffic cones (T-RV-7)",
+	"description": "Traffic cones (in Québécois Cônes orange), are usually cone-shaped markers that are placed on roads to temporarily redirect traffic in a safe manner. They are omnipresent in Montréal, the most populated city in Québec, so much that they are an icon of the city. ",
+	"links": {
+		"website": [
+			"https://en.wikipedia.org/wiki/Traffic_cone",
+			"https://fr.wikipedia.org/wiki/C%C3%B4ne_de_signalisation"
+		]
+	},
+	"path": {
+		"173-210": [
+			[
+				483,
+				198
+			],
+			[
+				483,
+				197
+			],
+			[
+				577,
+				197
+			],
+			[
+				577,
+				203
+			],
+			[
+				483,
+				203
+			]
+		]
+	},
+	"center": {
+		"173-210": [
+			530,
+			200
+		]
+	}
+}
