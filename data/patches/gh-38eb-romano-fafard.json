@@ -1,0 +1,110 @@
+{
+	"id": -1,
+	"name": "Romano Fafard",
+	"description": "The Romano Fafard is the spaceship of the Quebec television show: \"Dans une galaxie près de chez vous\". It is an icon of québec culture.",
+	"links": {
+		"website": [
+			"https://fr.wikipedia.org/wiki/Romano_Fafard",
+			"https://fr.wikipedia.org/wiki/Dans_une_galaxie_pr%C3%A8s_de_chez_vous",
+			"https://en.wikipedia.org/wiki/Dans_une_galaxie_pr%C3%A8s_de_chez_vous"
+		]
+	},
+	"path": {
+		"169-185": [
+			[
+				820,
+				317
+			],
+			[
+				820,
+				334
+			],
+			[
+				810,
+				329
+			],
+			[
+				802,
+				329
+			],
+			[
+				804,
+				338
+			],
+			[
+				803,
+				348
+			],
+			[
+				786,
+				347
+			],
+			[
+				784,
+				343
+			],
+			[
+				776,
+				343
+			],
+			[
+				776,
+				346
+			],
+			[
+				761,
+				344
+			],
+			[
+				762,
+				339
+			],
+			[
+				768,
+				336
+			],
+			[
+				770,
+				334
+			],
+			[
+				774,
+				338
+			],
+			[
+				784,
+				339
+			],
+			[
+				787,
+				336
+			],
+			[
+				798,
+				335
+			],
+			[
+				798,
+				329
+			],
+			[
+				795,
+				326
+			],
+			[
+				796,
+				323
+			],
+			[
+				809,
+				323
+			]
+		]
+	},
+	"center": {
+		"169-185": [
+			797,
+			341
+		]
+	}
+}
