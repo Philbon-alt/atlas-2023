@@ -1,0 +1,48 @@
+{
+	"id": -1,
+	"name": "Frasaskois Flag",
+	"description": "Flag of the French-speaking people of the Canadian province of Saskatchewan.",
+	"links": {
+		"website": [
+			"https://fr.wikipedia.org/wiki/Fransaskois",
+			"https://en.wikipedia.org/wiki/Fransaskois"
+		],
+		"subreddit": [
+			"Quebec"
+		]
+	},
+	"path": {
+		"220-254": [
+			[
+				587,
+				169
+			],
+			[
+				593,
+				169
+			],
+			[
+				593,
+				169
+			],
+			[
+				593,
+				175
+			],
+			[
+				593,
+				173
+			],
+			[
+				587,
+				173
+			]
+		]
+	},
+	"center": {
+		"220-254": [
+			590,
+			171
+		]
+	}
+}
